@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Honkide Manabu Sample Collection</string>
+    <string name="title_activity_main">Android sample collection to Honkide Manabu</string>
+    <string name="titleLesson16">Widget Sample</string>
+    <string name="titleLesson17">Layout Sample</string>
+    <string name="titleLesson18">Container Sample</string>
+    <string name="titleLesson26">Note App</string>
+    <string name="titleLesson27">Calculator App</string>
+    <string name="titleLesson28">TODO App</string>
+    <string name="titleLesson29">Wallpaper Changer App</string>
+    <string name="titleLesson31">Toolbar Sample</string>
+    <string name="titleLesson32">Color Sample</string>
+    <string name="titleLesson33">RecyclerView Sample</string>
+    <string name="titleLesson34">Various Animation sample</string>
+    <string name="titleLesson35">Voice Memo App</string>
+    <string name="titleLesson37">Color Sample App</string>
+    <string name="titleLesson41">Game App</string>
+
+    <string name="descLesson16">You can see the motion of various Widget to learn in the Lesson16.</string>
+    <string name="descLesson17">You can see the motion of the various Layout to learn in the Lesson17.</string>
+    <string name="descLesson18">You can see the motion of various Container to learn in the Lesson18.</string>
+    <string name="descLesson26">You can confirm the motion of the note app to learn in Lesson26.</string>
+    <string name="descLesson27">You can confirm the motion of the calculator app to learn in Lesson27.</string>
+    <string name="descLesson28">You can see the motion of TODO app that learning in Lesson28.</string>
+    <string name="descLesson29">You can see the motion of wallpaper changer app to learn in Lesson29.</string>
+    <string name="descLesson31">You can confirm the motion of the Toolbar app to learn in Lesson31.</string>
+    <string name="descLesson32">You can confirm the motion of the Color app to learn in Lesson32.</string>
+    <string name="descLesson33">You can see the motion of RecyclerView app to learn in Lesson33.</string>
+    <string name="descLesson34">You can see the motion of Animation app to learn in Lesson34.</string>
+    <string name="descLesson35">You can confirm the motion of the Database app to learn in Lesson35.</string>
+    <string name="descLesson37">You can see the motion of Internet app to learn in Lesson37.</string>
+    <string name="descLesson41">You can confirm the motion of the game app to learn in Lesson41.</string>
+
+</resources>
